@@ -12,9 +12,6 @@
   },
   "author": "Frederick-S",
   "license": "MIT",
-  "dependencies": {
-      "optimist": "0.6.1"
-  },
   "bugs": {
     "url": "https://github.com/Frederick-S/arubedo/issues"
   }
