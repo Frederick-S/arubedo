@@ -1,6 +1,6 @@
 # arubedo
 
-Translate アルベド語 into Japanese.
+Translate アルベド語 into Japanese, just for fun.
 
 ## Installation
 ```
@@ -10,7 +10,7 @@ $ [sudo] npm install arubedo -g
 ## Usage
 Run `arubedo` in terminal.
 ```
-$ arubedo your_sentence
+$ arubedo your_アルベド語
 ```
 
 ## License
