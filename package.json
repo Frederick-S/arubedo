@@ -1,6 +1,6 @@
 {
   "name": "arubedo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Translate Al Bhed language into Japanese",
   "main": "index.js",
   "bin": {
