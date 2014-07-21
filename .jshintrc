@@ -7,5 +7,5 @@
     "unused": "vars",
     "strict": true,
     "node": true,
-    "quotmark": "single"
+    "quotmark": true
 }
