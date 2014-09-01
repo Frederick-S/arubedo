@@ -1,10 +1,10 @@
 {
   "name": "arubedo",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Translate Al Bhed language into Japanese",
   "main": "index.js",
   "bin": {
-      "arubedo": "./bin/arubedo"
+    "arubedo": "./bin/arubedo"
   },
   "repository": {
     "type": "git",
