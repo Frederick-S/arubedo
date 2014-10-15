@@ -1,4 +1,4 @@
-# arubedo
+# arubedo ![Build](https://travis-ci.org/Frederick-S/arubedo.svg?branch=master)
 
 Translate アルベド語 into Japanese, just for fun.
 
