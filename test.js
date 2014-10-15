@@ -6,3 +6,4 @@ describe('Empty input', function () {
 		assert.equal('', arubedo.translate());
 	});
 });
+
