@@ -10,7 +10,7 @@ $ [sudo] npm install arubedo -g
 ## Usage
 Run `arubedo` in terminal.
 ```
-$ arubedo your_アルベド語
+$ arubedo アルベド語
 ```
 
 ## License
