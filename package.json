@@ -14,5 +14,14 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Frederick-S/arubedo/issues"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha test.js"		
+  },
+  "devDependencies": {
+    "mocha": "1.21.5"		
   }
 }
