@@ -26,7 +26,7 @@ describe('Translate words', function () {
     });
     
     it('"Al Bhed 語ソマ、FF10シソフギョフヌウアルフオデンゾベワウ。" should be translated to "Al Bhed 語とは、FF10にとうじょうするかくうのげんごである。"', function() {
-        assert.equal('Al Bhed 語とは、FF10にとうじょうするかくうのげんごである。', arubedo.translate('Al Bhed 語とは、FF10シソフギョフヌウアルフオデンゾベワウ。'));
+        assert.equal('Al Bhed 語とは、FF10にとうじょうするかくうのげんごである。', arubedo.translate('Al Bhed 語ソマ、FF10シソフギョフヌウアルフオデンゾベワウ。'));
     });
 });
 
