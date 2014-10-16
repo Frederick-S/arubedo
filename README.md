@@ -12,6 +12,13 @@ Run `arubedo` in terminal.
 ```
 $ arubedo アルベド語
 ```
+Or:
+```js
+var arubedo = require('arubedo');
+var translation = arubedo.translate('Al Bhed ソマ、FF10シソフギョフヌウアルフオデンゾベワウ。'); 
+console.log(translation);
+// Output: Al Bhed とは、FF10にとうじょうするかくうのげんごである。
+```
 
 ## License
 MIT.
