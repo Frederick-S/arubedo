@@ -25,8 +25,8 @@ describe('Translate words', function () {
         assert.equal('123', arubedo.translate('123'));
     });
     
-    it('"Al Bhed 語ソマ、FF10シソフギョフヌウアルフオデンゾベワウ。" should be translated to "Al Bhed 語とは、FF10にとうじょうするかくうのげんごである。"', function() {
-        assert.equal('Al Bhed 語とは、FF10にとうじょうするかくうのげんごである。', arubedo.translate('Al Bhed 語ソマ、FF10シソフギョフヌウアルフオデンゾベワウ。'));
+    it('"Al Bhed ソマ、FF10シソフギョフヌウアルフオデンゾベワウ。" should be translated to "Al Bhed とは、FF10にとうじょうするかくうのげんごである。"', function() {
+        assert.equal('Al Bhed とは、FF10にとうじょうするかくうのげんごである。', arubedo.translate('Al Bhed ソマ、FF10シソフギョフヌウアルフオデンゾベワウ。'));
     });
 });
 
