@@ -1,4 +1,6 @@
 # arubedo ![Build Status](https://travis-ci.org/Frederick-S/arubedo.svg?branch=master) [![Coverage Status](https://coveralls.io/repos/github/Frederick-S/arubedo/badge.svg?branch=master)](https://coveralls.io/github/Frederick-S/arubedo?branch=master)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/arubedo.svg)](https://greenkeeper.io/)
 Translate アルベド語 into Japanese, just for fun.
 
 ## Installation
